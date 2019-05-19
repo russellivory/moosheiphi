@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uhaeshohh.salonsopot.pl/sitemap.xml
